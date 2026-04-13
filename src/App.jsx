@@ -47,7 +47,7 @@ return (
           }}>💌</div>
           <div>
             <div style={{ fontSize: 16, fontWeight: 800, color: '#7a4a5a', lineHeight: 1.2 }}>
-              주은지 부교님께
+              이경민 부교님께
             </div>
             <div style={{ fontSize: 10, color: '#c0968a', marginTop: 2 }}>
               청미 롤링페이퍼 🌸
@@ -94,10 +94,10 @@ return (
       {/* 히어로 */}
       <div style={{ textAlign: 'center', padding: '30px 20px 22px' }}>
         <div style={{ fontSize: 10, color: '#c0968a', letterSpacing: '1px', marginBottom: 10, fontWeight: 700 }}>
-          안산 주성령 청미 · 은지 부교님 이임 롤링페이퍼 · 2026
+          안산 주성령 청미 · 경민 부교님 이임 롤링페이퍼 · 2026
         </div>
         <div style={{ fontSize: 26, fontWeight: 800, color: '#7a4a5a', lineHeight: 1.4, marginBottom: 12 }}>
-          사랑하는 <span style={{ color: '#e8798a' }}>은지 부교님</span>께<br />
+          사랑하는 <span style={{ color: '#e8798a' }}>경민 부교님</span>께<br />
           전하는 우리의 마음 💌
         </div>
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 10, margin: '14px 0 12px' }}>
@@ -171,7 +171,7 @@ return (
         borderTop: '1px dashed #e8d8d0',
         marginTop: 10,
       }}>
-        🕊️ 안산 주성령 청미 · 은지 부교님 이임 롤링페이퍼 · 2026
+        🕊️ 안산 주성령 청미 · 경민 부교님 이임 롤링페이퍼 · 2026
       </div>
 
       {/* 모달들 */}
