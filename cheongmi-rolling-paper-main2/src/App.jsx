@@ -97,7 +97,7 @@ return (
           안산 주성령 청미 · 경민 부교님 이임 롤링페이퍼 · 2026
         </div>
         <div style={{ fontSize: 26, fontWeight: 800, color: '#7a4a5a', lineHeight: 1.4, marginBottom: 12 }}>
-          사랑하는 <span style={{ color: '#e8798a' }}>은지 부교님</span>께<br />
+          사랑하는 <span style={{ color: '#e8798a' }}>경민 부교님</span>께<br />
           전하는 우리의 마음 💌
         </div>
         <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: 10, margin: '14px 0 12px' }}>
