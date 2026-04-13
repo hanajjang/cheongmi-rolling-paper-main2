@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic:wght@400;700;800&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Nanum Gothic', sans-serif;
+  background-color: #faf7f2;
+  background-image: radial-gradient(
+    circle, rgba(210,170,150,0.13) 1px, transparent 1px
+  );
+  background-size: 22px 22px;
+  min-height: 100vh;
+}
+
+.postit-rose   { background: #fde8e8; box-shadow: 2px 4px 14px rgba(232,121,138,0.2); }
+.postit-blush  { background: #fdf0e4; box-shadow: 2px 4px 14px rgba(240,160,100,0.18); }
+.postit-butter { background: #fefce4; box-shadow: 2px 4px 14px rgba(210,195,100,0.18); }
+.postit-mint   { background: #e8f8f0; box-shadow: 2px 4px 14px rgba(100,200,150,0.18); }
+.postit-sky    { background: #e8f4fd; box-shadow: 2px 4px 14px rgba(100,170,230,0.18); }
+.postit-lilac  { background: #f0ecfd; box-shadow: 2px 4px 14px rgba(160,130,230,0.18); }
+
+.pin-rose   { background: radial-gradient(circle at 35% 35%, #f4a0a8, #d06070); }
+.pin-blush  { background: radial-gradient(circle at 35% 35%, #f4c080, #d09040); }
+.pin-butter { background: radial-gradient(circle at 35% 35%, #e8d870, #b0a030); }
+.pin-mint   { background: radial-gradient(circle at 35% 35%, #80d8a8, #409068); }
+.pin-sky    { background: radial-gradient(circle at 35% 35%, #80c0f0, #4080c0); }
+.pin-lilac  { background: radial-gradient(circle at 35% 35%, #c0a8f0, #8060c0); }
